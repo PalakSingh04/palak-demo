@@ -1,4 +1,5 @@
 # palak-demo
+
 This is my first Git Repository.
 <br>
-Author - Palak Singh
+Author - Palak Singh (PS)
